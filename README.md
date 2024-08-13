@@ -1,0 +1,2 @@
+# lang_translate_mcplugin
+マイクラのPluginで僕が翻訳したファイルとかその辺のを置いときます
