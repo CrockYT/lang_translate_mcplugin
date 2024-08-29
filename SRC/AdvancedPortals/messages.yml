@@ -1,0 +1,29 @@
+# Advanced Portals Messages
+
+# If this is true a custom prefix can be used, (not fully coded yet!!)
+
+UseCustomPrefix: false
+
+CustomPrefix: '&a[&eAdvancedPortals&a]'
+
+CustomPrefixFail: '&c[&7AdvancedPortals&c]'
+
+# Message sent to player in chat/action bar on warp
+WarpMessage: ''
+
+# Where to display the message 0 = disabled(replaces PortalWarpMessages), 1 = in chat and 2 = action bar(1.8 and above only, anything lower will print the message that would
+#  generally on the action bar in the chat without a prefix or extra chat formatting)
+WarpMessageDisplay: 2
+
+# Message sent to player that has just joined the server trying to use a portal
+CooldownProtectionMessage: '&c現在ポータルは使用できません (クールタイム: <time>)'
+
+# Message sent to player that doesn't have permission to use a portal
+NoPermissionPortal: '&cこのポータルは使用できません (※権限がありません)'
+
+# Message sent to player that has a portal cooldown
+PortalCooldownMessage: '&cこのポータルを再度使用するには <time> 待ってください'
+
+# Message sent to player when they attempt to break a block close to a portal
+NoBuildPermission: '&cポータルを作成するための権限がありません'
+
